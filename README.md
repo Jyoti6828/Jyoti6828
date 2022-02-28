@@ -1,5 +1,5 @@
-<h1 align = "center">Hello, Everyone!!!</h1>
-<h3 align = "left"> I'm <a  href="https://github.com/Jyoti6828">Jyoti Rajput </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
+<h1 align = "center">Hello <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Everyone!!!</h1>
+<h3 align = "left"> I'm <a  href="https://github.com/Jyoti6828">Jyoti Rajput </a> </h3>
 <h3 align="left">A third year CSE undergraduate pursuing B.E and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210"></h3>
 <!--<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti6828&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti6828" /> </p> 
@@ -61,12 +61,10 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br>
-  
+  <hr>
 <h1 align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoti6828&show_icons=true&locale=en&layout=compact" alt="jyoti6828" /></p>
-<h1 align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyoti6828&show_icons=true&locale=en" alt="jyoti6828" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoti6828&show_icons=true&locale=en&layout=compact" alt="jyoti6828" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyoti6828&show_icons=true&locale=en" alt="jyoti6828" /></p>
 <br>
     <h1 align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyoti6828&" alt="jyoti6828" /></p>
