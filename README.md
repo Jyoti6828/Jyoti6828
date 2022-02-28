@@ -65,7 +65,7 @@
   
 <h1 align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoti6828&show_icons=true&locale=en&layout=compact" alt="jyoti6828" /></p>
-
+<h1 align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyoti6828&show_icons=true&locale=en" alt="jyoti6828" /></p>
 <br>
     <h1 align="center">
