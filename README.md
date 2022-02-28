@@ -63,7 +63,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <hr>
 <h1 align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoti6828&show_icons=true&locale=en&layout=compact" alt="jyoti6828" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyoti6828&show_icons=true&locale=en&layout=compact" alt="jyoti6828" /></p><br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyoti6828&show_icons=true&locale=en" alt="jyoti6828" /></p>
 <br>
     <h1 align="center">
