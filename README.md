@@ -1,23 +1,24 @@
 <h1 align = "center">Hello <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Everyone!!!</h1>
-<h3 align = "left"> I'm <a  href="https://github.com/Jyoti6828">Jyoti Rajput </a> </h3>
-<h3 align="left">A third year CSE undergraduate pursuing B.E and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills. <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210"></h3>
+<h3 align = "left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm <a  href="https://github.com/Jyoti6828">Jyoti Rajput </a>A third year CSE undergraduate pursuing B.E and a passionate programmer who loves to code. I am creatively curious and a self learner. <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210"></h3>
 <!--<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti6828&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti6828" /> </p> 
 <br> -->
 
-- 🌱 I’m currently learning on **New Technologies** and practicing **Data Structures and Algorithms** everyday.
-<!-- - 👨‍💻 All of my projects are available at [portfolio](portfolio)-->
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/jyotirajput6828@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:jyotirajput6828@gmail.com)
+- 👩‍ I’m currently learning **New Technologies**.  
 
+- ✍️ Practicing **Data Structures and Algorithms** everyday.
+<!-- - 👨‍💻 All of my projects are available at [portfolio](portfolio)-->
+- ⭐ How to reach me: **jyotirajput6828@gmail.com** 
+- 🎓 I love exploring **New Things**
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Jyoti6828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jyoti_rajput" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jyoti-rajput-93a0571b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti-rajput-93a0571b4" height="30" width="40" /></a>
-<a href="https://medium.com/@jyotirajput6828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jyotirajput6828" height="30" width="40" /></a>  
+<a href="https://codepen.io/Jyoti6828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jyoti_rajput" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/jyoti-rajput-93a0571b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti-rajput-93a0571b4" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@jyotirajput6828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jyotirajput6828" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
   
 
 <h2>Skills</h2>
@@ -74,11 +75,11 @@
 </h1>
   
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="0400FF")](https://github.com/Jyoti6828)
   <h6 align="left">
     
 Created By: [Jyoti6828](https://github.com/Jyoti6828)
     
   </h6>
   <h6 align="left">
-    Last Edited on: 28/02/2022 </h6>
+    Last Edited on: 01/03/2022 </h6>
