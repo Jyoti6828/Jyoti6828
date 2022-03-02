@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti6828&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti6828" /> </p> 
 <br> -->
 
-- 👩‍ I’m currently learning **New Technologies**.  
+- 👩‍ I’m currently learning **React**.  
 
 - ✍️ Practicing **Data Structures and Algorithms** everyday.
 <!-- - 👨‍💻 All of my projects are available at [portfolio](portfolio)-->
