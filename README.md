@@ -1,5 +1,6 @@
 <h1 align = "center">Hello <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Everyone!!!</h1>
-<h3 align = "left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm <a  href="https://github.com/Jyoti6828">Jyoti Rajput </a>, A third-year CSE undergraduate pursuing B.E and a passionate programmer who loves to code. I am creatively curious and a self-learner. <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210"></h3>
+<h3 align = "left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm <a  href="https://github.com/Jyoti6828">Jyoti Rajput </a>, A third-year CSE undergraduate pursuing B.E and a passionate programmer who loves to code. I am creatively curious and a self-learner. <img align='right' src="https://user-images.githubusercontent.com/78480983/161280795-e3c3467a-2bcb-428e-9208-d26c6a7d9234.gif" width="250" height="210"></h3>
+
 <!--<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti6828&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti6828" /> </p> 
 <br> -->
@@ -83,3 +84,6 @@ Created By: [Jyoti6828](https://github.com/Jyoti6828)
   </h6>
   <h6 align="left">
     Last Edited on: 01/03/2022 </h6>
+
+      
+      ![gif](https://user-images.githubusercontent.com/78480983/161280795-e3c3467a-2bcb-428e-9208-d26c6a7d9234.gif)
