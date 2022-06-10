@@ -1,4 +1,4 @@
-<h1 align = "center">Hello <img  src=https://images.app.goo.gl/qSRYHVKekbdfHT458 width="10px"> Everyone!!!</h1>
+<h1 align = "center">Hello Everyone!!!</h1>
 <h3 align = "left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm <a  href="https://github.com/Jyoti6828">Jyoti Rajput </a>, A third-year CSE undergraduate pursuing B.E and a passionate programmer who loves to code. I am creatively curious and a self-learner. <img align='right' src="https://user-images.githubusercontent.com/78480983/161280795-e3c3467a-2bcb-428e-9208-d26c6a7d9234.gif" width="250" height="210"></h3>
 
 <!--<br>
