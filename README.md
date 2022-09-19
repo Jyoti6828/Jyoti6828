@@ -1,5 +1,5 @@
 <h1 align = "center">Hello Everyone!!!</h1>
-<h3 align = "left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm <a  href="https://github.com/Jyoti6828">Jyoti Rajput </a>, A third-year CSE undergraduate and a passionate programmer who loves to code. I am creatively curious and a self-learner. <img align='right' src="https://user-images.githubusercontent.com/78480983/161280795-e3c3467a-2bcb-428e-9208-d26c6a7d9234.gif" width="250" height="210"></h3>
+<h3 align = "left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm <a  href="https://github.com/Jyoti6828">Jyoti Rajput </a>, A Final -year CSE undergraduate and a passionate programmer who loves to code. I am creatively curious and a self-learner. <img align='right' src="https://user-images.githubusercontent.com/78480983/161280795-e3c3467a-2bcb-428e-9208-d26c6a7d9234.gif" width="250" height="210"></h3>
 
 <!--<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti6828&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti6828" /> </p> 
@@ -83,7 +83,7 @@ Created By: [Jyoti6828](https://github.com/Jyoti6828)
     
   </h6>
   <h6 align="left">
-    Last Edited on: 21/06/2022 </h6>
+    Last Edited on: 19/09/2022 </h6>
 
       
     
