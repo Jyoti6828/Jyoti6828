@@ -9,7 +9,7 @@
 
 - ✍️ Practicing **Data Structures and Algorithms** everyday.
 <!-- - 👨‍💻 All of my projects are available at [portfolio](portfolio)-->
-- ⭐ How to reach me: **jyotirajput6828@gmail.com** 
+
 - 🎓 I love exploring **New Things**
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
