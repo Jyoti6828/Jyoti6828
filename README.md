@@ -13,7 +13,7 @@
 - 🎓 I love exploring **New Things**
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
-- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
+<!-- - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
